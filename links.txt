@@ -1,0 +1,12 @@
+texto de apresentação links
+home                  index.html
+acomodação            acomodação
+
+   suite stardard        suitestardard.html
+   suite  double         suitedouble.html
+   suite master          suitemaster.html
+lazer                     lazer.html
+gastronomia               gastronomia.html
+evento                    eventos.html
+reservas                  reservas.html
+localização               localização.html
